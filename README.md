@@ -1,4 +1,4 @@
-\# Hi, I’m Bee 👋🐝
+\ Hi, I’m Bee 👋🐝
 
 I’m a production support software developer based in Toronto, Canada, working on mission-critical financial systems at IFC Canada.  
 My work sits at the intersection of **software engineering, legacy systems, and production reliability** — building, monitoring, and supporting systems that have real business impact.
