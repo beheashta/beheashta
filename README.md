@@ -4,13 +4,13 @@ I’m a production support software developer based in Toronto, Canada, working 
 My work sits at the intersection of **software engineering, legacy systems, and production reliability** — building, monitoring, and supporting systems that have real business impact.
 
 ## Background
-- 🎓 BSc in Computer Science (Honours), Wilfrid Laurier University — 2025
+- 🎓 BSc in Computer Science (Honours), Wilfrid Laurier University (2025)
 - 🇨🇦 Born and raised in Canada
 - 🇦🇺 Dual citizen of Canada and Australia
 - 🌏 Long-term goal: working as a software engineer in Melbourne
 
 ## What I do
-- Production support and development of complex legacy and modern systems
+- Production support and development of complex legacy and modern systems (combination of brownfield and greenfield)
 - Operational monitoring and first-line incident response across SaaS platforms
 - Triage, investigation, and resolution of production incidents and defects
 - On-call participation, severity escalation, and major incident management
