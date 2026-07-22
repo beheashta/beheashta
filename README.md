@@ -5,9 +5,6 @@ My work sits at the intersection of **software engineering, legacy systems, and 
 
 ## Background
 - 🎓 BSc in Computer Science (Honours), Wilfrid Laurier University (2025)
-- 🇨🇦 Born and raised in Canada
-- 🇦🇺 Dual citizen of Canada and Australia
-- 🌏 Long-term goal: working as a software engineer in Melbourne
 
 ## What I do
 - Production support and development of complex legacy and modern systems (combination of brownfield and greenfield)
@@ -16,8 +13,6 @@ My work sits at the intersection of **software engineering, legacy systems, and 
 - On-call participation, severity escalation, and major incident management
 - Coordination with product owners, development teams, and service teams
 - Participation in PIT testing and release-related validation
-
-I work closely with real production data, real users, and real constraints — where correctness, traceability, and safe fixes matter more than perfect code.
 
 ## Systems & technologies I work with
 **Languages & Runtime**
